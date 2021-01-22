@@ -4,3 +4,4 @@ while (1) {
   alert("不正解です！");
   }
   alert("正解です！");
+  console.log(result);
